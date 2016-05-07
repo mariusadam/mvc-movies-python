@@ -1,0 +1,5 @@
+1;Titlu 166;Descriere 121;Gen 1123
+2;Titlu 662;Descriere 2;Gen 2345
+3;Titlu 63;Descriere 3;Gen 36
+4;Titlu 4;Descriere 4t44;Gen 4t54t
+555;Titlu 555;Descriere 555;Gen 555

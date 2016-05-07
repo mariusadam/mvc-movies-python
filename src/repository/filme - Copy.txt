@@ -1,0 +1,5 @@
+1;Titlu 1;Descriere 1;Gen 1
+2;Titlu 2;Descriere 2;Gen 2
+3;Titlu 3;Descriere 3;Gen 3
+4;Titlu 4;Descriere 4;Gen 4
+5;Titlu 5;Descriere 5;Gen 5

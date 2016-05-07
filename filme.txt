@@ -1,0 +1,7 @@
+1 _ titlu nou _ aaa _ aaaa
+3 _ Fast and Furious 1 _ Masini scumpe :) _ Actiune
+4 _ Fast and Furious 2 _ Masini scumpe :) _ Actiune
+2 _ Rush Hour 2 _ Film oarte bun _ Comedie
+5 _ Fast and Furious 7 _ O adevarata capodopera _ Actiune
+6 _ Circle(2015) _ Ceva descriere _ SF
+43 _ 123 _ 123 _ 123
